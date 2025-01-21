@@ -36,7 +36,7 @@ fun main(){
   Persona("Julia", 1.72, 64.7),
   Persona("Pablo", 1.90, 72.9),
   Persona("Juan", 1.90, 76.7)
-
+  Persona("Santiago", 2.09, 87.7)
  )
  for (persona in personas) {
   println(persona.saludar())
